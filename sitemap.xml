@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://regenerativehealthsystem.com</loc>
+        <lastmod>2024-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Memberships/Offers page -->
+    <url>
+        <loc>https://regenerativehealthsystem.com/special-offers</loc>
+        <lastmod>2024-09-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- About Us page -->
+    <url>
+        <loc>https://regenerativehealthsystem.com/about</loc>
+        <lastmod>2024-09-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Media page -->
+    <url>
+        <loc>https://regenerativehealthsystem.com/media</loc>
+        <lastmod>2024-09-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Contact Us page -->
+    <url>
+        <loc>https://regenerativehealthsystem.com/contact</loc>
+        <lastmod>2024-09-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Blog post example -->
+    <url>
+        <loc>https://regenerativehealthsystem.com/How-Does-The-EESystem-Work</loc>
+        <lastmod>2024-09-10</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+</urlset>

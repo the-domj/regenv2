@@ -1,0 +1,16 @@
+User-agent: *  # This section applies to all web crawlers
+
+# Allow all crawlers to access the main site pages
+Allow: /
+
+# Block specific directories or files
+Disallow: /private/   # For example, blocking a private directory
+Disallow: /admin/     # Blocking an admin area
+Disallow: /test.html  # Blocking specific file
+
+# Block specific file types (optional)
+Disallow: /*.php$     # Blocks all .php files
+Disallow: /*.txt$     # Blocks all .txt files
+
+# Sitemap directive (important for listing all your URLs for SEO)
+Sitemap: https://regenerativehealthsystem.com/sitemap.xml
