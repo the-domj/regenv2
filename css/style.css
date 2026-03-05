@@ -1626,14 +1626,6 @@ section.lines-deco:after{
   right: 17.5%;
 }
 
-section.text-light.lines-deco:before{
-  border-left: solid 1px rgba(255, 255, 255, .25);
-}
-
-section.text-light.lines-deco:after{
-  border-left: solid 1px rgba(255, 255, 255, .25);
-}
-
 .bottom-rounded{
   overflow: hidden;
   border-radius:0 0 100% 100%;
