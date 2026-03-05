@@ -161,7 +161,6 @@ body.dark-scheme {
 body.boxed {
   margin: 30px;
   overflow: hidden;
-  border: solid 1px #eee;
 }
 
 body .owl-stage .owl-item {
